@@ -13,3 +13,5 @@ It uses the simplex and the knapsack algorithm for the solution.
 The compilation instructions can be found in "Istruzioni Compilazione.rtf".
 
 The project is commented in italian
+
+Copyright (c) 2012 Luca Meschiari <meschial@tcd.ie>  <http://www.lucameschiari.com>.
