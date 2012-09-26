@@ -1,3 +1,4 @@
+// Luca Meschiari
 // Programma di risoluzione del problema "Cutting stock problem"
 
 
